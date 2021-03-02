@@ -19,7 +19,7 @@ My maven repository
 ```gradle
 repositories {
     maven {
-        url = uri("https://raw.githubusercontent.com/kusaanko/maven/main/")
+        url "https://raw.githubusercontent.com/kusaanko/maven/main/"
     }
 }
 ```
