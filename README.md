@@ -15,7 +15,7 @@ My maven repository
 </repositories>
 ```
 
-## Gralde
+## Gradle
 ```gradle
 repositories {
     maven {
