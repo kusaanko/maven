@@ -7,7 +7,7 @@ My maven repository
 <repositories>
     <repository>
         <id>kusaanko-maven</id>
-        <url>https://raw.githubusercontent.com/kusaanko/maven/master/<</url>
+        <url>https://raw.githubusercontent.com/kusaanko/maven/master/</url>
         <releases>
             <enabled>true</enabled>
         </releases>
